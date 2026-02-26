@@ -1,3 +1,9 @@
+#
+# Copyright (c) 2026 IvanNovR (https://github.com/IvanNovR/pterodactyl-images)
+#
+# This image is licensed under the GPL-3.0 license.
+#
+
 FROM ghcr.io/ivannovr/pterodactyl-images:java_11
 
 USER root
