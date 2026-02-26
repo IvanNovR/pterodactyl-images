@@ -1,6 +1,6 @@
 <h1 align="center">Pterodactyl Images</h1>
 
-![Status](https://img.shields.io/github/actions/workflow/status/IvanNovR/JavaGameBox/maven.yml.svg) ![GitHub License](https://img.shields.io/github/license/ivannovr/pterodactyl-images) [![English Readme](https://img.shields.io/badge/english-readme-blue)](./README.md)
+![GitHub License](https://img.shields.io/github/license/ivannovr/pterodactyl-images) [![English Readme](https://img.shields.io/badge/english-readme-blue)](./README.md)
 
 Репозиторий пакета: https://github.com/IvanNovR/pterodactyl-images/pkgs/container/pterodactyl-images
 
