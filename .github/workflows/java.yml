@@ -40,4 +40,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/IvanNovR/pterodactyl-images:java_${{ matrix.tag }}
+            ghcr.io/ivannovr/pterodactyl-images:java_${{ matrix.tag }}
