@@ -1,6 +1,6 @@
 FROM ghcr.io/ivannovr/pterodactyl-images:java_21
 
-COPY ../certs/*.crt /usr/local/share/ca-certificates/
+COPY certs/*.crt /usr/local/share/ca-certificates/
 
 RUN update-ca-certificates
 
