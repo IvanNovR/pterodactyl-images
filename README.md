@@ -13,7 +13,7 @@ This repository provides Docker images intended for use with the Pterodactyl gam
 ## Available images
 
 - [java](https://github.com/IvanNovR/pterodactyl-images/tree/main/java) ![Status](https://img.shields.io/github/actions/workflow/status/IvanNovR/pterodactyl-images/java.yml.svg)
-  - standard &mdash; standard images follow the Yolks-style layout used in this repository and are intended as drop-in Java runtimes for Pterodactyl containers.
+  - standard &mdash; standard images follow the [Yolks](https://github.com/pterodactyl/yolks)-style layout used in this repository and are intended as drop-in Java runtimes for Pterodactyl containers.
     - [8](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/8) &mdash; Image: [`ghcr.io/ivannovr/pterodactyl-images:java_8`](https://ghcr.io/ivannovr/pterodactyl-images:java_8)
     - [11](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/11) &mdash; Image: [`ghcr.io/ivannovr/pterodactyl-images:java_11`](https://ghcr.io/ivannovr/pterodactyl-images:java_11)
     - [17](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/17) &mdash; Image: [`ghcr.io/ivannovr/pterodactyl-images:java_17`](https://ghcr.io/ivannovr/pterodactyl-images:java_17)
