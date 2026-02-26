@@ -13,7 +13,7 @@
 ## Доступные образы
 
 - [java](https://github.com/IvanNovR/pterodactyl-images/tree/main/java) ![Status](https://img.shields.io/github/actions/workflow/status/IvanNovR/pterodactyl-images/java.yml.svg)
-  - обычная &mdash; стандартные образы следуют [Yolks](https://github.com/pterodactyl/yolks) стилю оформлению, используемому в этом репозитории, и предназначены как готовые Java-рантаймы для контейнеров Pterодактиль.
+  - обычная &mdash; стандартные образы следуют [Yolks](https://github.com/pterodactyl/yolks) стилю оформлению и предназначены как готовые Java-рантаймы для контейнеров Pterodactyl.
     - [8](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/8) &mdash; Образ: [`ghcr.io/ivannovr/pterodactyl-images:java_8`](https://ghcr.io/ivannovr/pterodactyl-images:java_8)
     - [11](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/11) &mdash; Образ: [`ghcr.io/ivannovr/pterodactyl-images:java_11`](https://ghcr.io/ivannovr/pterodactyl-images:java_11)
     - [17](https://github.com/IvanNovR/pterodactyl-images/tree/main/java/17) &mdash; Образ: [`ghcr.io/ivannovr/pterodactyl-images:java_17`](https://ghcr.io/ivannovr/pterodactyl-images:java_17)
